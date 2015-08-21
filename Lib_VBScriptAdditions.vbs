@@ -28,7 +28,7 @@
 
 
 ' VBScript workarounds and feature enhancements
-' To use them, you need to include this file in your script, or simply copy/paste the functions in the content of your file.
+' To use them, you need to include this file in your scripting project, or simply copy/paste the functions in the content of your file.
 
 
 

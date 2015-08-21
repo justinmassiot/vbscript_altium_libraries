@@ -28,7 +28,8 @@
 
 
 ' Altium Designer API related functions
-' To use them, you need to include this file in your script, or simply copy/paste the functions in the content of your file.
+' To use them, you need to include this file in your scripting project, or simply copy/paste the functions in the content of your file.
+' IMPORTANT: This file is dependent on the "Lib_FileManagement.vbs" script. Don't forget to include the file in your project as well.
 
 
 
