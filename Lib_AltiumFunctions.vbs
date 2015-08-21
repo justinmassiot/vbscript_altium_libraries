@@ -5,21 +5,22 @@
 ' ============================================================================ '
 '                                                                              '
 '    This program is free software: you can redistribute it and/or modify      '
-'    it under the terms of the GNU General Public License as published by      '
-'    the Free Software Foundation, either version 3 of the License, or         '
-'    (at your option) any later version.                                       '
+'    it under the terms of the GNU Lesser General Public License as            '
+'    published by the Free Software Foundation, either version 3 of the        '
+'    License, or (at your option) any later version.                           '
 '                                                                              '
 '    This program is distributed in the hope that it will be useful,           '
 '    but WITHOUT ANY WARRANTY; without even the implied warranty of            '
 '    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the              '
-'    GNU General Public License for more details.                              '
+'    GNU Lesser General Public License for more details.                       '
 '                                                                              '
-'    You should have received a copy of the GNU General Public License         '
-'    along with this program. If not, see <http://www.gnu.org/licenses/>.      '
+'    You should have received a copy of the GNU Lesser General Public          '
+'    License along with this program.                                          '
+'    If not, see <http://www.gnu.org/licenses/>.                               '
 '                                                                              '
 ' ============================================================================ '
 
-' Altium®, Altium Designer®, Altium Vault®, Autotrax®, Camtastic®, CircuitMaker®, CircuitStudio®, Codemaker™, DXP™, Easytrax®, LiveDesign®, NanoBoard®, PCBWORKS™, P-CAD®, Protel®, TASKING® and their respective logos are trademarks or registered trademarks of Altium Limited or its subsidiaries. See the full Copyright at http://www.altium.com/copyrights-and-trademarks and the EULA at http://www.altium.com/eula .
+' Altium®, Altium Designer®, DXP™ and their respective logos are trademarks or registered trademarks of Altium Limited or its subsidiaries. See the full Copyright at http://www.altium.com/copyrights-and-trademarks and the EULA at http://www.altium.com/eula .
 ' All other registered or unregistered trademarks referenced herein are the property of their respective owners.
 
 ' ------------------------------------------------------------------------------
